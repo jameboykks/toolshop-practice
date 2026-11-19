@@ -129,7 +129,7 @@ Bài về nhà Sprint 1 (hạn đầu buổi 11/11): làm theo [docs/sprint-1.md
 
 Thư mục `bai-doc/` có một bài đọc cho mỗi buổi (25 - 35 phút), cuối bài có câu hỏi tự kiểm tra. Đọc sau buổi học để ôn và trước khi làm phần đồ án tương ứng.
 
-Phiếu thực hành từng buổi (làm theo trên lớp, hoặc làm lại ở nhà nếu nghỉ buổi): `bai-doc/buoi-1-phieu-thuc-hanh.md`, `bai-doc/buoi-2-phieu-thuc-hanh.md`.
+Phiếu thực hành từng buổi (làm theo trên lớp, hoặc làm lại ở nhà nếu nghỉ buổi): `bai-doc/buoi-1-phieu-thuc-hanh.md`, `bai-doc/buoi-2-phieu-thuc-hanh.md`, `bai-doc/buoi-3-phieu-thuc-hanh.md`.
 
 ## 8. Bị kẹt?
 
